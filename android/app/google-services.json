@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "244410525829",
+    "firebase_url": "https://messenger-d1425.firebaseio.com",
+    "project_id": "messenger-d1425",
+    "storage_bucket": "messenger-d1425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244410525829:android:32c41b053a4afa916fe1ec",
+        "android_client_info": {
+          "package_name": "com.example.messio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244410525829-l003jmbsiumf2e8blkrrrd8mour1d3ma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messio_app",
+            "certificate_hash": "8a86e9d3bef6dfe090ed33b013c0ba3d348fe371"
+          }
+        },
+        {
+          "client_id": "244410525829-b6eabl0cas0vmc956t3gec3it44m2ulj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRu6cpOqV1beIKpyz4E0NzAsVlfz3HSTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244410525829-b6eabl0cas0vmc956t3gec3it44m2ulj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244410525829-io9spqt8i8r9j7gq1di3se86c0n7i00f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messioApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
